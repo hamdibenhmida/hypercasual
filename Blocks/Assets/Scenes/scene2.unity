@@ -1392,8 +1392,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   playerManager: {fileID: 1469474805}
-  movementSpeed: 3
-  controlSpeed: 3
+  movementSpeed: 6
+  controlSpeed: 4
   isTouching: 0
 --- !u!4 &837128738 stripped
 Transform:
