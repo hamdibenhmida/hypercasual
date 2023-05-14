@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.679325, g: 0.7328694, b: 0.80467784, a: 1}
+  m_IndirectSpecularColor: {r: 0.62573475, g: 0.69938093, b: 0.7833857, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -4838,17 +4838,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 179c285074396ab45a0258ec9e342992, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  canva: {fileID: 0}
+  canva: {fileID: 1156822564}
   empty:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 1278136587}
+  - {fileID: 729344064}
+  - {fileID: 238291801}
   full:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  next: {fileID: 0}
-  retry: {fileID: 0}
+  - {fileID: 1471137054}
+  - {fileID: 563664185}
+  - {fileID: 414690260}
+  next: {fileID: 1836376457}
+  retry: {fileID: 921214882}
   percent: 0
 --- !u!4 &2015697922 stripped
 Transform:

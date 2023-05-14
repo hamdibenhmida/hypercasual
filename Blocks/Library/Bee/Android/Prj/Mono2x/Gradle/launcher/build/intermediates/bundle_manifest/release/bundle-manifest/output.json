@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "applicationId": "com.DefaultCompany.VoodooStickyBlockClone",
+  "applicationId": "com.DefaultCompany.TheRedCube",
   "variantType": "BASE_APK",
   "elements": [
     {
@@ -19,7 +19,7 @@
       },
       "path": "AndroidManifest.xml",
       "properties": {
-        "packageId": "com.DefaultCompany.VoodooStickyBlockClone",
+        "packageId": "com.DefaultCompany.TheRedCube",
         "split": "",
         "minSdkVersion": "22"
       }

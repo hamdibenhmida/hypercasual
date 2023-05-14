@@ -9825,17 +9825,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 179c285074396ab45a0258ec9e342992, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  canva: {fileID: 0}
+  canva: {fileID: 1678044318}
   empty:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 1894296631}
+  - {fileID: 267924312}
+  - {fileID: 690498376}
   full:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  next: {fileID: 0}
-  retry: {fileID: 0}
+  - {fileID: 1779124875}
+  - {fileID: 1545890161}
+  - {fileID: 1655213006}
+  next: {fileID: 985983338}
+  retry: {fileID: 1806106119}
   percent: 0
 --- !u!4 &2015697922 stripped
 Transform:
